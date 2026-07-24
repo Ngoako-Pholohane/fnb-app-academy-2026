@@ -1,4 +1,4 @@
-# Unit 3 – Manipulating Numbers
+# Unit 3 – Manipulating Numbers 
 
 ## Overview
 
