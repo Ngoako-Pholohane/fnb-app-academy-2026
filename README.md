@@ -84,3 +84,4 @@ After completing the FNB App Academy, I plan to continue developing my technical
 This repository represents my progress as I learn, practise, build, solve problems, make mistakes, and improve my programming and software development skills.
 
 I hope to use the skills gained through this programme as a foundation for exploring how technology, data, and artificial intelligence can contribute to solving real-world problems in medicine and healthcare.
+ 
