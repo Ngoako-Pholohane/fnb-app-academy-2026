@@ -1,4 +1,4 @@
-# Unit 2 – Manipulating Strings
+# Unit 2 – Manipulating Strings 
 
 ## Overview
 
