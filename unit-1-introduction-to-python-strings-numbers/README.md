@@ -1,4 +1,4 @@
-# Unit 1 – Introduction to Python, Strings & Numbers
+# Unit 1 – Introduction to Python, Strings & Numbers 
 
 ## Overview
 
