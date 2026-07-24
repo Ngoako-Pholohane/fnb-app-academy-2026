@@ -1,5 +1,5 @@
 while True:
-    score = input("Enter game score: ").strip().lower()
+    score = input("Enter game score (or 'stop' to end session): ").strip().lower()
 
     if score == "stop":
         print("Game session ended!\n")
